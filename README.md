@@ -1,4 +1,7 @@
-# api documentation for  [find-port (v2.0.1)](https://github.com/kessler/find-port)  [![npm package](https://img.shields.io/npm/v/npmdoc-find-port.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-find-port) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-find-port.svg)](https://travis-ci.org/npmdoc/node-npmdoc-find-port)
+# npmdoc-find-port
+
+#### api documentation for  [find-port (v2.0.1)](https://github.com/kessler/find-port)  [![npm package](https://img.shields.io/npm/v/npmdoc-find-port.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-find-port) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-find-port.svg)](https://travis-ci.org/npmdoc/node-npmdoc-find-port)
+
 #### find an unused port in your localhost
 
 [![NPM](https://nodei.co/npm/find-port.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/find-port)
@@ -64,7 +67,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "2.0.1"
+    "version": "2.0.1",
+    "bin": {}
 }
 ```
 
